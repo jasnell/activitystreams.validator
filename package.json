@@ -1,0 +1,19 @@
+{
+  "name": "activitystreams.validator",
+  "version": "0.0.1",
+  "description": "Activity Streams 2.0 Validator",
+  "main": "lib/asval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James M Snell",
+  "license": "Apache v.2",
+  "dependencies": {
+    "log4js": "^0.6.16",
+    "iri": "^1.1.1",
+    "language-tags": "^1.0.2",
+    "media-type": "^0.1.0",
+    "moment": "^2.7.0",
+    "node-iso8601": "^1.0.0"
+  }
+}
