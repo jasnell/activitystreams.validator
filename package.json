@@ -13,7 +13,6 @@
     "iri": "^1.1.1",
     "language-tags": "^1.0.2",
     "media-type": "^0.1.0",
-    "moment": "^2.7.0",
-    "node-iso8601": "^1.0.0"
+    "moment": "^2.7.0"
   }
 }
