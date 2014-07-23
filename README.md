@@ -11,7 +11,7 @@ var validator = require('activitystreams.validator');
 
 var result = validator.validate({
   id: 'foo',
-  displayName: 'this won't be valid'
+  displayName: "this won't be valid"
 });
 
 console.log(result);
