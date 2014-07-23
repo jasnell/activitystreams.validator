@@ -1,5 +1,11 @@
 To install:
 
+```
+npm install git://github.com/jasnell/activitystreams.validator.git
+```
+
+To use:
+
 ```javascript
 var validator = require('activitystreams.validator');
 
